@@ -1,0 +1,2 @@
+自定义聚合函数   UDAF   user define aggregate function
+
